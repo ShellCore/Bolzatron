@@ -1,7 +1,9 @@
-package com.shellcore.android.bolzatron;
+package com.shellcore.android.bolzatron.ui.main.ui;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.shellcore.android.bolzatron.R;
 
 public class MainActivity extends AppCompatActivity {
 
