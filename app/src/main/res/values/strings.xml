@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Bolzatron</string>
+    <string name="main.menu.about">Acerca de</string>
 </resources>
